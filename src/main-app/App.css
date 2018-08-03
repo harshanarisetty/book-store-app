@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 100px;
+  color: white;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+}
+
+.App-title {
+  font-size: 1.5em;
+  padding: 20px;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.new-book-form {
+  margin-left: 20vw;
+  margin-right: 20vw;
+  padding: 10px;
+  border: 1px solid #ebebeb;
+  text-align: center;
+}
+
+.form-button {
+margin:10px;
+}
+
+TextBox {
+  margin-bottom: 5px;
+}
+h2{
+text-align: center;
+padding: 5px;
+}
+
+.table-class{
+  margin-left: 5vw;
+  margin-right: 5vw;
+}
+.input-form{
+  margin-bottom: 10px;
+  /* pad */
+}
+
